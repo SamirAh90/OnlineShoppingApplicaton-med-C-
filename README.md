@@ -1,16 +1,10 @@
+
 Projektrapport:
-Projekt C: Shopping app för Cheap Cheating Shoppers
-
-
-Författare:  Samir Ahmad, h24samah@du.se och Ludwig Lindfors h24ludli@du.se 
-Datum: 2025-05-23
-Kursnamn: GIK299 – Objektorienterad Programmering
-Examinator: Pär Eriksson, pei@du.se 
- 
 
  
 Titel
 Projekt C: Shopping app för Cheap Cheating Shoppers
+Länk till YouTube  Länk till YouTube: https://youtu.be/yw5sdq6M4DQ 
 
 Syfte
 Vi har skapat ett program som simulerar en online bokhandel. Det är utvecklat som Console applikation i C# och är baserad på Objektsorientering principer. 
