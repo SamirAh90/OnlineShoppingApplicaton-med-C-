@@ -1,0 +1,14 @@
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\OnlineShoppingApplicaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\OnlineShoppingApplicaton.AssemblyInfoInputs.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\OnlineShoppingApplicaton.AssemblyInfo.cs
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\OnlineShoppingApplicaton.csproj.CoreCompileInputs.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\bin\Debug\net8.0\OnlineShoppingApplicaton.exe
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\bin\Debug\net8.0\OnlineShoppingApplicaton.deps.json
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\bin\Debug\net8.0\OnlineShoppingApplicaton.runtimeconfig.json
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\bin\Debug\net8.0\OnlineShoppingApplicaton.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\bin\Debug\net8.0\OnlineShoppingApplicaton.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\OnlineShoppingApplicaton.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\refint\OnlineShoppingApplicaton.dll
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\OnlineShoppingApplicaton.pdb
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\OnlineShoppingApplicaton.genruntimeconfig.cache
+C:\Users\samahm\OneDrive - Högskolan Dalarna\Projekt arbete C#\OnlineShoppingApplicaton\OnlineShoppingApplicaton\obj\Debug\net8.0\ref\OnlineShoppingApplicaton.dll
